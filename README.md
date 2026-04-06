@@ -157,6 +157,8 @@ If you find this work useful for your research, please kindly cite our paper:
   author  = {Xu, Tianjiao and Liu, Xuebo and Wong, Derek F. and Zhang, Yue and Chao, Lidia S. and Zhang, Min and Gan, Tian},
   title   = {Exploiting Multimodal Knowledge Graph for Multimodal Machine Translation},
   journal = {IEEE Transactions on Multimedia},
+  volume={28},
+  pages={1677-1688},
   year    = {2025}
 }
 ```
